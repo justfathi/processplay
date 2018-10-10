@@ -1,3 +1,3 @@
 # processplay
 
-test 1 ht
+test 1
